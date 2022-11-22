@@ -32,7 +32,7 @@ $ node app.js
 - Animations
 - Anything else you'd be proud to show your parents
 
-# scream:Bugs to fix:poop:
+# scream:Bugs to fix:poop :
 ----------------------------------------------------------------------------------------------------------------------------
 - Anything a little broken
 - Anything a LOT broken
